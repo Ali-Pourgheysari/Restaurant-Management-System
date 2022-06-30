@@ -43,28 +43,34 @@ This is a very simple restaurant management system (my first project ever)
     <img src="./screenshot/05  editting the name of 6th  food.png">
 
 After eddit it:
-    <img src="./screenshot/06 menu after edditing 6th  name.png">
+
+<img src="./screenshot/06 menu after edditing 6th  name.png">
 
 * Now we want to edit the prices and remove items with the same proccess.
 
 Edit prices:
-    <img src="./screenshot/07 edditing the price tag of 1st food.png">
+
+<img src="./screenshot/07 edditing the price tag of 1st food.png">
 
 After eddit it:
-    <img src="./screenshot/08 menu after edditing 1st  item price tag.png">
+
+<img src="./screenshot/08 menu after edditing 1st  item price tag.png">
 
 Remove items:
-    <img src="./screenshot/09 removing 4th from the menu.png">
+
+<img src="./screenshot/09 removing 4th from the menu.png">
 
 After removing:
-    <img src="./screenshot/10 menu after removing 4th food.png">
+
+<img src="./screenshot/10 menu after removing 4th food.png">
 
 * Now we want to add new items to the menu by pressing 3 and entering the name and price of the item.
 
-    <img src="./screenshot/11 adding a new food to the menu.png">
+<img src="./screenshot/11 adding a new food to the menu.png">
 
 After adding:
-    <img src="./screenshot/12 menu after adding a new food.png">
+
+<img src="./screenshot/12 menu after adding a new food.png">
 
 * We can order food with Admin account as well but we explain it later with the User account.
 
