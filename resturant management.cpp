@@ -41,7 +41,7 @@ void edit(foodlist food[9], int &counter,bool &first)
         {
             cout << "\n\tWrite a name for the food: ";
             cin.ignore();
-            gets(name);
+            cin.getline(name, 31);
             int a = command2 - '0';
             strcpy(food[a - 1].foodname,name);
         }
@@ -71,7 +71,7 @@ void edit(foodlist food[9], int &counter,bool &first)
     {
         cout << "\n\tWrite the name of the new food: ";
         cin.ignore();
-        gets(newfood);
+        cin.getline(newfood, 31);
         strcpy(food[counter + 1].foodname,newfood);
         cout << "\n\tEnter the price tag for the new food: ";
         cin >> price2;
